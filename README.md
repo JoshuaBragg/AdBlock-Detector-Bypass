@@ -6,3 +6,9 @@ A chrome extension that removes the obtrusive popup that prevents you from viewi
 - Forbes
 - USA Today
 - Business Insider
+- CNBC
+- Toronto Sun
+- NY Times
+- EuroGamer
+- USGamer
+- GamesRadar
