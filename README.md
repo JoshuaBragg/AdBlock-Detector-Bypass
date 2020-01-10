@@ -13,3 +13,4 @@ A chrome extension that removes the obtrusive popup that prevents you from viewi
 - USGamer
 - GamesRadar
 - Bloomberg
+- Toronto Star
