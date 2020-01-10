@@ -6,5 +6,8 @@
 		"default_popup": "popup.html"
 	},
 	"permissions": ["tabs", "<all_urls>"],
+	"icons": {  "16": "abdb.logo.16.png",
+				"48": "abdb.logo.48.png",
+				"128": "abdb.logo.128.png" },
 	"manifest_version": 2
 }
