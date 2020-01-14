@@ -2,13 +2,15 @@
 	"name": "AdBlock Detector Bypass",
 	"version": "1.0",
 	"description": "Removes the obtrusive popup that prevents you from viewing webpage content when an adblocker is detected",
-	"background" : {
-		"scripts" : ["background.js"]
+	"background": {
+		"scripts": ["background.js"]
 	},
 	"permissions": ["tabs", "<all_urls>"],
-	"icons": {  "16": "assets/abdb.logo.16.png",
-				"48": "assets/abdb.logo.48.png",
-				"128": "assets/abdb.logo.128.png"},
+	"icons": {
+		"16": "assets/abdb.logo.16.png",
+		"48": "assets/abdb.logo.48.png",
+		"128": "assets/abdb.logo.128.png"
+	},
 	"browser_action": {
 		"default_icon": "assets/abdb.logo.16.png"
 	},
