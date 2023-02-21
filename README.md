@@ -4,6 +4,6 @@ A chrome extension that removes the obtrusive popup that prevents you from viewi
 
 When a popup appears simply click the extension icon to remove the popup and continue reading the article.
 
-Install the extension [here](https://chrome.google.com/webstore/detail/adblock-detector-bypass/acjlefdefjkldgcimnfkehgbnpjekedo)
+Install the .crx file from the assets to run. I have requested for this to be put up on AMO, nothing received yet.
 
 This is sure to work on most websites from my experience.
