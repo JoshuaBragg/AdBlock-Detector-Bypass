@@ -4,6 +4,6 @@ A firefox extension that removes the obtrusive popup that prevents you from view
 
 When a popup appears simply click the extension icon to remove the popup and continue reading the article.
 
-Install the .crx file from the assets to run. I have requested for this to be put up on AMO, nothing received yet.
-
+I have requested AMO for a .xpi file. Hang on. 
 This is sure to work on most websites from my experience.
+
