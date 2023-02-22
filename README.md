@@ -5,7 +5,7 @@ A firefox extension that removes the obtrusive popup that prevents you from view
 When a popup appears simply click the extension icon to remove the popup and continue reading the article.
 
 
-To download this extension, go to the latest release and download the .xpi file. It is signed by Mozilla.
+To download this extension, go to the latest release and download the .xpi file. It is signed by Mozilla, or click [here](https://addons.mozilla.org/en-US/firefox/addon/adblock-detector-bypass/)
 
 This is sure to work on most websites from my experience.
 
