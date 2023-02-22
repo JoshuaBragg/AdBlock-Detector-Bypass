@@ -4,7 +4,9 @@ A firefox extension that removes the obtrusive popup that prevents you from view
 
 When a popup appears simply click the extension icon to remove the popup and continue reading the article.
 
-I have requested AMO for a .xpi file. Hang on. If you want to use this extension, you have to use it as a temporary-add-on. Upload the background.js file to use it as a temporary add on.
+
+To download this extension, go to the latest release and download the .xpi file. It is signed by Mozilla.
+
 This is sure to work on most websites from my experience.
 
 
